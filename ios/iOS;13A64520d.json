@@ -1,0 +1,15 @@
+{
+  "osStr": "iOS",
+  "version": "9.0.2",
+  "build": "13A64520d",
+  "internal": "true",
+  "uniqueBuild": "13A64520d",
+  "key": "iOS;13A64520d",
+  "beta": false,
+  "deviceMap": [],
+  "released": "",
+  "preinstalled": [],
+  "osType": "iOS",
+  "devices": {},
+  "appledburl": "https://appledb.dev/firmware/iOS/13A64520d"
+}

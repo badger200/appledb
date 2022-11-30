@@ -1,0 +1,15 @@
+{
+  "osStr": "iOS",
+  "version": "4.3",
+  "build": "8F3191d",
+  "internal": "true",
+  "uniqueBuild": "8F3191d",
+  "key": "iOS;8F3191d",
+  "beta": false,
+  "deviceMap": [],
+  "released": "",
+  "preinstalled": [],
+  "osType": "iOS",
+  "devices": {},
+  "appledburl": "https://appledb.dev/firmware/iOS/8F3191d"
+}

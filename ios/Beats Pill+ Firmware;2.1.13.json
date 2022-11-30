@@ -1,0 +1,37 @@
+{
+  "osStr": "Beats Pill+ Firmware",
+  "version": "2.1.13",
+  "deviceMap": [
+    "Beats Pill+",
+    "Beats Pill+ Stussy Edition",
+    "Beats Pill+ KAR AUDIO SYSTEM Edition",
+    "Beats Pill+ The Malbons Edition",
+    "Beats Pill+ Quai 54 Edition",
+    "Beats Pill+ KITH Edition",
+    "Beats Pill+ UNDEFEATED Edition",
+    "Beats Pill+ FaZe Clan Edition",
+    "Beats Pill+ Madhappy Edition",
+    "Beats Pill+ Field Trip Recordings Edition",
+    "Beats Pill+ Devin Booker Edition"
+  ],
+  "uniqueBuild": "2.1.13",
+  "key": "Beats Pill+ Firmware;2.1.13",
+  "beta": false,
+  "released": "",
+  "preinstalled": [],
+  "osType": "Beats Pill+ Firmware",
+  "devices": {
+    "Beats Pill+": {},
+    "Beats Pill+ Stussy Edition": {},
+    "Beats Pill+ KAR AUDIO SYSTEM Edition": {},
+    "Beats Pill+ The Malbons Edition": {},
+    "Beats Pill+ Quai 54 Edition": {},
+    "Beats Pill+ KITH Edition": {},
+    "Beats Pill+ UNDEFEATED Edition": {},
+    "Beats Pill+ FaZe Clan Edition": {},
+    "Beats Pill+ Madhappy Edition": {},
+    "Beats Pill+ Field Trip Recordings Edition": {},
+    "Beats Pill+ Devin Booker Edition": {}
+  },
+  "appledburl": "https://appledb.dev/firmware/Beats-Pill+-Firmware/2.1.13"
+}

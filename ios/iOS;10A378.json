@@ -1,0 +1,15 @@
+{
+  "osStr": "iOS",
+  "version": "6.0",
+  "build": "10A378",
+  "internal": "true",
+  "uniqueBuild": "10A378",
+  "key": "iOS;10A378",
+  "beta": false,
+  "deviceMap": [],
+  "released": "",
+  "preinstalled": [],
+  "osType": "iOS",
+  "devices": {},
+  "appledburl": "https://appledb.dev/firmware/iOS/10A378"
+}

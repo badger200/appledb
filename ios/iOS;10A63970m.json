@@ -1,0 +1,15 @@
+{
+  "osStr": "iOS",
+  "version": "6.0",
+  "build": "10A63970m",
+  "internal": "true",
+  "uniqueBuild": "10A63970m",
+  "key": "iOS;10A63970m",
+  "beta": false,
+  "deviceMap": [],
+  "released": "",
+  "preinstalled": [],
+  "osType": "iOS",
+  "devices": {},
+  "appledburl": "https://appledb.dev/firmware/iOS/10A63970m"
+}

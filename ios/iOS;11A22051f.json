@@ -1,0 +1,15 @@
+{
+  "osStr": "iOS",
+  "version": "7.0",
+  "build": "11A22051f",
+  "internal": "true",
+  "uniqueBuild": "11A22051f",
+  "key": "iOS;11A22051f",
+  "beta": false,
+  "deviceMap": [],
+  "released": "",
+  "preinstalled": [],
+  "osType": "iOS",
+  "devices": {},
+  "appledburl": "https://appledb.dev/firmware/iOS/11A22051f"
+}

@@ -1,0 +1,15 @@
+{
+  "osStr": "iOS",
+  "version": "4.2",
+  "build": "8E5074b",
+  "internal": "true",
+  "uniqueBuild": "8E5074b",
+  "key": "iOS;8E5074b",
+  "beta": false,
+  "deviceMap": [],
+  "released": "",
+  "preinstalled": [],
+  "osType": "iOS",
+  "devices": {},
+  "appledburl": "https://appledb.dev/firmware/iOS/8E5074b"
+}

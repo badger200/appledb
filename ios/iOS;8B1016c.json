@@ -1,0 +1,15 @@
+{
+  "osStr": "iOS",
+  "version": "4.1",
+  "build": "8B1016c",
+  "internal": "true",
+  "uniqueBuild": "8B1016c",
+  "key": "iOS;8B1016c",
+  "beta": false,
+  "deviceMap": [],
+  "released": "",
+  "preinstalled": [],
+  "osType": "iOS",
+  "devices": {},
+  "appledburl": "https://appledb.dev/firmware/iOS/8B1016c"
+}

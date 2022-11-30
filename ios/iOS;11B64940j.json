@@ -1,0 +1,15 @@
+{
+  "osStr": "iOS",
+  "version": "7.0.3",
+  "build": "11B64940j",
+  "internal": "true",
+  "uniqueBuild": "11B64940j",
+  "key": "iOS;11B64940j",
+  "beta": false,
+  "deviceMap": [],
+  "released": "",
+  "preinstalled": [],
+  "osType": "iOS",
+  "devices": {},
+  "appledburl": "https://appledb.dev/firmware/iOS/11B64940j"
+}

@@ -1,0 +1,15 @@
+{
+  "osStr": "iOS",
+  "version": "4.0",
+  "build": "8A2130h",
+  "internal": "true",
+  "uniqueBuild": "8A2130h",
+  "key": "iOS;8A2130h",
+  "beta": false,
+  "deviceMap": [],
+  "released": "",
+  "preinstalled": [],
+  "osType": "iOS",
+  "devices": {},
+  "appledburl": "https://appledb.dev/firmware/iOS/8A2130h"
+}

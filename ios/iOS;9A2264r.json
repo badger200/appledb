@@ -1,0 +1,15 @@
+{
+  "osStr": "iOS",
+  "version": "5.0",
+  "build": "9A2264r",
+  "internal": "true",
+  "uniqueBuild": "9A2264r",
+  "key": "iOS;9A2264r",
+  "beta": false,
+  "deviceMap": [],
+  "released": "",
+  "preinstalled": [],
+  "osType": "iOS",
+  "devices": {},
+  "appledburl": "https://appledb.dev/firmware/iOS/9A2264r"
+}

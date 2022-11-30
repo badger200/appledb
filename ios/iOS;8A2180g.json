@@ -1,0 +1,15 @@
+{
+  "osStr": "iOS",
+  "version": "4.0",
+  "build": "8A2180g",
+  "internal": "true",
+  "uniqueBuild": "8A2180g",
+  "key": "iOS;8A2180g",
+  "beta": false,
+  "deviceMap": [],
+  "released": "",
+  "preinstalled": [],
+  "osType": "iOS",
+  "devices": {},
+  "appledburl": "https://appledb.dev/firmware/iOS/8A2180g"
+}

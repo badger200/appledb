@@ -1,0 +1,15 @@
+{
+  "osStr": "iOS",
+  "version": "9.0",
+  "build": "13A83261u",
+  "internal": "true",
+  "uniqueBuild": "13A83261u",
+  "key": "iOS;13A83261u",
+  "beta": false,
+  "deviceMap": [],
+  "released": "",
+  "preinstalled": [],
+  "osType": "iOS",
+  "devices": {},
+  "appledburl": "https://appledb.dev/firmware/iOS/13A83261u"
+}

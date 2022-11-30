@@ -1,0 +1,15 @@
+{
+  "osStr": "iOS",
+  "version": "9.1",
+  "build": "13B72",
+  "internal": "true",
+  "uniqueBuild": "13B72",
+  "key": "iOS;13B72",
+  "beta": false,
+  "deviceMap": [],
+  "released": "",
+  "preinstalled": [],
+  "osType": "iOS",
+  "devices": {},
+  "appledburl": "https://appledb.dev/firmware/iOS/13B72"
+}

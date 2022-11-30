@@ -1,0 +1,15 @@
+{
+  "osStr": "iOS",
+  "version": "6.0",
+  "build": "10B63290m",
+  "internal": "true",
+  "uniqueBuild": "10B63290m",
+  "key": "iOS;10B63290m",
+  "beta": false,
+  "deviceMap": [],
+  "released": "",
+  "preinstalled": [],
+  "osType": "iOS",
+  "devices": {},
+  "appledburl": "https://appledb.dev/firmware/iOS/10B63290m"
+}

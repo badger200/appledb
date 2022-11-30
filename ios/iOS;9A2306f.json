@@ -1,0 +1,15 @@
+{
+  "osStr": "iOS",
+  "version": "5.1",
+  "build": "9A2306f",
+  "internal": "true",
+  "uniqueBuild": "9A2306f",
+  "key": "iOS;9A2306f",
+  "beta": false,
+  "deviceMap": [],
+  "released": "",
+  "preinstalled": [],
+  "osType": "iOS",
+  "devices": {},
+  "appledburl": "https://appledb.dev/firmware/iOS/9A2306f"
+}

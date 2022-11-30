@@ -1,0 +1,15 @@
+{
+  "osStr": "iPhoneOS",
+  "version": "1.0",
+  "build": "1A420",
+  "internal": "true",
+  "uniqueBuild": "1A420",
+  "key": "iPhoneOS;1A420",
+  "beta": false,
+  "deviceMap": [],
+  "released": "",
+  "preinstalled": [],
+  "osType": "iOS",
+  "devices": {},
+  "appledburl": "https://appledb.dev/firmware/iPhoneOS/1A420"
+}

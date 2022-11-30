@@ -1,0 +1,15 @@
+{
+  "osStr": "iOS",
+  "version": "7.1",
+  "build": "11D31620u",
+  "internal": "true",
+  "uniqueBuild": "11D31620u",
+  "key": "iOS;11D31620u",
+  "beta": false,
+  "deviceMap": [],
+  "released": "",
+  "preinstalled": [],
+  "osType": "iOS",
+  "devices": {},
+  "appledburl": "https://appledb.dev/firmware/iOS/11D31620u"
+}

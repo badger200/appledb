@@ -1,0 +1,15 @@
+{
+  "osStr": "iPhoneOS",
+  "version": "1.1",
+  "build": "3A53",
+  "internal": "true",
+  "uniqueBuild": "3A53",
+  "key": "iPhoneOS;3A53",
+  "beta": false,
+  "deviceMap": [],
+  "released": "",
+  "preinstalled": [],
+  "osType": "iOS",
+  "devices": {},
+  "appledburl": "https://appledb.dev/firmware/iPhoneOS/3A53"
+}

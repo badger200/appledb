@@ -1,0 +1,15 @@
+{
+  "osStr": "iOS",
+  "version": "5.1",
+  "build": "9B3176b",
+  "internal": "true",
+  "uniqueBuild": "9B3176b",
+  "key": "iOS;9B3176b",
+  "beta": false,
+  "deviceMap": [],
+  "released": "",
+  "preinstalled": [],
+  "osType": "iOS",
+  "devices": {},
+  "appledburl": "https://appledb.dev/firmware/iOS/9B3176b"
+}

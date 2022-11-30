@@ -1,0 +1,15 @@
+{
+  "osStr": "iOS",
+  "version": "4.0",
+  "build": "8A216",
+  "internal": "true",
+  "uniqueBuild": "8A216",
+  "key": "iOS;8A216",
+  "beta": false,
+  "deviceMap": [],
+  "released": "",
+  "preinstalled": [],
+  "osType": "iOS",
+  "devices": {},
+  "appledburl": "https://appledb.dev/firmware/iOS/8A216"
+}

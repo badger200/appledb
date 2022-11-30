@@ -1,0 +1,15 @@
+{
+  "osStr": "iOS",
+  "version": "7.0",
+  "build": "11A63840h",
+  "internal": "true",
+  "uniqueBuild": "11A63840h",
+  "key": "iOS;11A63840h",
+  "beta": false,
+  "deviceMap": [],
+  "released": "",
+  "preinstalled": [],
+  "osType": "iOS",
+  "devices": {},
+  "appledburl": "https://appledb.dev/firmware/iOS/11A63840h"
+}

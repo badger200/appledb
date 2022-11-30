@@ -1,0 +1,15 @@
+{
+  "osStr": "iOS",
+  "version": "8.3",
+  "build": "12H1150f",
+  "internal": "true",
+  "uniqueBuild": "12H1150f",
+  "key": "iOS;12H1150f",
+  "beta": false,
+  "deviceMap": [],
+  "released": "",
+  "preinstalled": [],
+  "osType": "iOS",
+  "devices": {},
+  "appledburl": "https://appledb.dev/firmware/iOS/12H1150f"
+}

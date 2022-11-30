@@ -1,0 +1,15 @@
+{
+  "osStr": "iOS",
+  "version": "8.0",
+  "build": "12A93650o",
+  "internal": "true",
+  "uniqueBuild": "12A93650o",
+  "key": "iOS;12A93650o",
+  "beta": false,
+  "deviceMap": [],
+  "released": "",
+  "preinstalled": [],
+  "osType": "iOS",
+  "devices": {},
+  "appledburl": "https://appledb.dev/firmware/iOS/12A93650o"
+}

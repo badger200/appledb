@@ -1,0 +1,15 @@
+{
+  "osStr": "iOS",
+  "version": "9.3",
+  "build": "13E31820k",
+  "internal": "true",
+  "uniqueBuild": "13E31820k",
+  "key": "iOS;13E31820k",
+  "beta": false,
+  "deviceMap": [],
+  "released": "",
+  "preinstalled": [],
+  "osType": "iOS",
+  "devices": {},
+  "appledburl": "https://appledb.dev/firmware/iOS/13E31820k"
+}

@@ -1,0 +1,15 @@
+{
+  "osStr": "iOS",
+  "version": "6.0",
+  "build": "10A351",
+  "internal": "true",
+  "uniqueBuild": "10A351",
+  "key": "iOS;10A351",
+  "beta": false,
+  "deviceMap": [],
+  "released": "",
+  "preinstalled": [],
+  "osType": "iOS",
+  "devices": {},
+  "appledburl": "https://appledb.dev/firmware/iOS/10A351"
+}
